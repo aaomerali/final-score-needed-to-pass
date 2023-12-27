@@ -50,6 +50,11 @@ body{
     margin-bottom: 40px;
 }
 
+::placeholder {
+    font-size: 15px;
+    opacity: 0.6;
+  }
+
 .goBtn{
     background-color: #4762b9;
     color: #fff;
